@@ -1,0 +1,32 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-raleway: Raleway;
+
+  /* font sizes */
+  --font-size-base: 14px;
+  --font-size-lg: 16px;
+  --font-size-xl: 18px;
+  --font-size-2xl: 26px;
+  --font-size-3xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #757575;
+  --color-gray-200: #212121;
+  --color-gray-300: rgba(255, 255, 255, 0.6);
+  --color-black: #000;
+  --color-cornflowerblue-100: #2196f3;
+  --color-whitesmoke-100: #eee;
+  --color-whitesmoke-200: #ececec;
+  --color-ghostwhite: #f5f4fa;
+  --color-darkslategray-100: #2f303a;
+  --color-darkgray: #afb1b8;
+
+  /* border radiuses */
+  --br-md: 4px;
+
+  /* Effects */
+  --material-shadow-v1: 0px 1px 3px rgba(0, 0, 0, 0.12),
+    0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+}
